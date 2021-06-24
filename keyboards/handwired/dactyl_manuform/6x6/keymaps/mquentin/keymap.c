@@ -19,7 +19,7 @@
 // ),
 
 
-// TODO: replace all KC_ and US_ par des FR_ de keymap_french.h
+// To compile: qmk compile -kb handwired/dactyl_manuform/6x6 -km mquentin
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [BASE]=LAYOUT_6x6(
