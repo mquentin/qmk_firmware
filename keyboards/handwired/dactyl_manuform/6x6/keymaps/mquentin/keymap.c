@@ -29,7 +29,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_CAPSLOCK, FR_A,    FR_Z,     FR_E,     FR_R,     FR_T,               FR_Y,   FR_U,   FR_I,     FR_O,    FR_P,    FR_CIRC,
     KC_F12,      FR_Q,    FR_S,     FR_D,     FR_F,     FR_G,               FR_H,   FR_J,   FR_K,     FR_L,    FR_M,    FR_UGRV,
     KC_F11,      FR_W,    FR_X,     FR_C,     FR_V,     FR_B,               FR_N,   FR_COMM,FR_SCLN,  FR_COLN, FR_DLR,  FR_ASTR,
-                            KC_TAB,  FR_LABK,                                               KC_RALT,    FR_EXLM,
+                            FR_LABK,  KC_TAB,                                               KC_RALT,    FR_EXLM,
                                                 KC_SPACE,  KC_LGUI,         KC_BSPACE,  KC_ENTER,
                                                   KC_LCTRL, KC_LSHIFT,           KC_UP,     KC_RIGHT,
                                                   KC_LALT,  KC_ENTER,           KC_LEFT, KC_DOWN
