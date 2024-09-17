@@ -11,14 +11,14 @@
 
 ## QMK-toolbox
 
-### If not installed
+### If not installed
 
 - `brew install qmk-toolbox` 
 - enable in macOS security
 - run it
 
 
-### If installed
+### If installed
 
 - run it
 - load the compiled hex file `/Users/.../qmk_mquentin/qmk_firmware/handwired_dactyl_manuform_6x6_promicro_mquentin.hex`
