@@ -1,6 +1,6 @@
 # To compile
 
-`qmk compile -kb handwired/dactyl_manuform/6x6 -km mquentin``
+`qmk compile -kb handwired/dactyl_manuform/6x6 -km mquentin`
 
 # To flash
 

@@ -23,6 +23,7 @@
 // ),
 
 
+// All infos with Images: https://github.com/mquentin/qmk_firmware/blob/master/keyboards/handwired/dactyl_manuform/6x6/keymaps/mquentin/readme.md
 // To compile: qmk compile -kb handwired/dactyl_manuform/6x6 -km mquentin
 // To flash: qmk flash -kb handwired/dactyl_manuform/6x6 -km mquentin
 // to reset: press and hold ESC_RSTA then KC_ENTER THEN KC_LGUI
