@@ -25,6 +25,7 @@
 
 // To compile: qmk compile -kb handwired/dactyl_manuform/6x6 -km mquentin
 // To flash: qmk flash -kb handwired/dactyl_manuform/6x6 -km mquentin
+// to reset: press and hold ESC_RSTA then KC_ENTER THEN KC_LGUI
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [BASE]=LAYOUT_6x6(
